@@ -1,0 +1,1 @@
+**Repository dedicated to node project quick start shell script**
